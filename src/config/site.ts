@@ -31,7 +31,7 @@ export const MAIN_NAV: NavItem[] = [
 
 export const SOURCE_CODE_GITHUB_REPO = "ggvelasco/gus-portfolio";
 export const SOURCE_CODE_GITHUB_URL =
-  "https://github.com/ggvelasco/gus-portfolio";
+  "https://github.com/ggvelasco/gusdev-portfolio";
 
 export const UTM_PARAMS = {
   utm_source: "gus-portfolio.vercel.app",

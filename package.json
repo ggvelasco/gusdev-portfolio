@@ -12,7 +12,7 @@
   "contributors": [],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ggvelasco/gus-portfolio.git"
+    "url": "git+https://github.com/ggvelasco/gusdev-portfolio.git"
   },
   "scripts": {
     "dev": "next dev -p 1408 --turbopack",
