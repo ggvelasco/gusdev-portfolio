@@ -125,7 +125,7 @@ export const EXPERIENCES: Experience[] = [
         id: "c47f5903-88ae-4512-8a50-0b91b0cf99b6",
         title: "Universidade Nove de Julho — UNINOVE",
         employmentPeriod: {
-          start: "08.2018",
+          start: "06.2024",
           end: "2026",
         },
         icon: "education",
