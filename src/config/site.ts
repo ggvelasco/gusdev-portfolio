@@ -3,7 +3,7 @@ import type { NavItem } from "@/types/nav";
 
 export const SITE_INFO = {
   name: USER.displayName,
-  url: process.env.APP_URL || "https://gus-portfolio-five.vercel.app/",
+  url: process.env.APP_URL || "https://gusdev-portfolio-chi.vercel.app/",
   ogImage: USER.ogImage,
   description: USER.bio,
   keywords: USER.keywords,

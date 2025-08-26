@@ -23,12 +23,12 @@ export const USER: User = {
     {
       title: "Junior Software Engineer",
       company: "gusdev",
-      website: "https://gus-portfolio-five.vercel.app/",
+      website: "https://gusdev-portfolio-chi.vercel.app/",
     },
     {
       title: "Founder",
       company: "gusdev",
-      website: "https://gus-portfolio-five.vercel.app/",
+      website: "https://gusdev-portfolio-chi.vercel.app/",
     },
   ],
   about: `
