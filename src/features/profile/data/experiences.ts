@@ -87,7 +87,7 @@ export const EXPERIENCES: Experience[] = [
         id: "3e831244-8d8c-41e2-b2ce-7f3946956afd",
         title: "Fraud Prevention Specialist",
         employmentPeriod: {
-          start: "2020",
+          start: "2019",
           end: "2022",
         },
         employmentType: "Full-time",
